@@ -26,8 +26,9 @@ Saya percaya bahwa proses belajar akan lebih bermakna jika dibagikan.
 Saya berharap repository ini bisa menjadi catatan perjalanan saya, dan mungkin juga bermanfaat bagi orang lain.
 
 ---
-📫 **Kontak**:  
+📫 **Kontak**  
 Email : `faliqazzaki@gmail.com`
+<br>
 Instagram : `@faliqazzakifaliqazzaki`
 <!--
 **Faliqazzaki/Faliqazzaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
